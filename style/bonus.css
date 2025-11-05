@@ -1,0 +1,6 @@
+/* Bonus style class */
+.bonus-mode {
+    background-color: #1a1a1a;  
+    color: #00ffcc;              
+    transition: all 0.3s ease;   
+}
